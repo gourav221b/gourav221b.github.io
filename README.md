@@ -1,4 +1,4 @@
-<h3 align="left">Hey folks, this is <gourav/> and I'm a <web developer/> <creator/></h3>
+<h3 align="left">Hey folks, this is gourav and I'm a web developer & creator</h3>
 
 ###
 
